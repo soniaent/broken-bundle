@@ -1,0 +1,6 @@
+code: broken-bundle
+description: broken-bundle
+bundle-type: system-level-bundle
+components:
+  plugins:
+    - plugins/pn-3a0eefc4-13d51bef-entando-simple-ms-descriptor.yaml
